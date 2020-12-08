@@ -1,4 +1,5 @@
 # Amazon-Scraper
+Work in Progress
 Scraping Amazon.com for best laptop based on specs and price using Selenium
 
 # What I Learned
